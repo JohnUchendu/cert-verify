@@ -102,6 +102,7 @@ export default function CertificatePage() {
 
        
 
+
         {/* Title */}
         <h1
           className="font-display animate-fade-up animate-fade-up-delay-1 text-center mb-10"
