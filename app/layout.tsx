@@ -7,7 +7,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: "Certificate Verification – Chainalysis Academy",
     description: "Verify certificate authenticity for Chainalysis Academy courses",
-    url: "http://verify.skilljar.com/c/nrcseeawpvh8",
+    url: "http://verify.skillljar.com/",
     siteName: "Chainalysis Academy",
     images: [
       {

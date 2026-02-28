@@ -9,7 +9,7 @@ const certificate = {
   completionDate: "Feb. 2, 2024",
   course: "Chainalysis Investigation Specialist Certification (CISC)",
   offeredBy: "Chainalysis Academy",
-  verifyUrl: "http://verify.skilljar.com/c/nrcseeawpvh8",
+  verifyUrl: "http://verify.skillljar.com/",
   certImageSrc: "/certificate.png",  // ← local image shown on screen
   certPdfSrc: "/certificate.pdf",    // ← local PDF downloaded on click
 };
